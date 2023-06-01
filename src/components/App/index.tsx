@@ -1,5 +1,5 @@
 import React from "react";
-import { PostsList } from "../PostsList/Index";
+import { PostsList } from "../PostsList/index";
 import { UsersList } from "../UsersList";
 import { AddPost } from "../AddPost";
 import styles from "./App.module.css";
